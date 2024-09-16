@@ -4,11 +4,11 @@
 
 # Site
 title: LargeSkull
-subtitle: ''
+subtitle: 'Eureka Moment！'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 小叶子
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
