@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LargeSkull
+title: LargeSkull の Blog
 subtitle: 'Eureka Moment！'
-description: ''
+description: '莽撞的开始，拙劣的完成，也好过因心怀完美主义而不动手去做。'
 keywords:
 author: 小叶子
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
@@ -39,8 +39,13 @@ external_link:
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
-render_drafts: false
-post_asset_folder: false
+render_drafts: true
+post_asset_folder: true
+
+marked:
+  prependRoot: true
+  postAsset: true
+
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -105,3 +110,9 @@ deploy:
   type: git
   repo: git@github.com:LargeSkull/LargeSkull.github.io.git
   branch: master
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

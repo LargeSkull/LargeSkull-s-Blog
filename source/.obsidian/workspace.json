@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "categories/index.md",
+                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "45f5a100765c6a91",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "categories/index.md",
+                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "categories/index.md",
+                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "categories/index.md"
+                "file": "_posts/000LargeSkull/Note/英国食物小记.md"
               }
             }
           }
@@ -148,8 +148,33 @@
   },
   "active": "d406dd7fd9fa5387",
   "lastOpenFiles": [
-    "_posts/000 LargeSkull/随记/未命名.md",
+    "about/index.md",
+    "links/index.md",
+    "_posts/000LargeSkull/Note/“疯子？学术疯子！”.md",
+    "_posts/000LargeSkull/Note/英国食物小记.md",
+    "tags/index.md",
+    "about",
+    "_posts/000LargeSkull/Note/英国食物小记/6.jpg",
+    "_posts/000LargeSkull/Note/英国食物小记/1.jpg",
+    "_posts/000LargeSkull/Note/英国食物小记/2.jpg",
+    "_posts/000LargeSkull/Note/英国食物小记/3.jpg",
+    "_posts/000LargeSkull/Note/英国食物小记/5.jpg",
     "categories/index.md",
-    "tags/index.md"
+    "_posts/000 LargeSkull/随记/英国食物小记.md",
+    "_posts/000LargeSkull/Note/英国食物小记/4.jpg",
+    "_posts/000LargeSkull/Note/英国食物小记",
+    "_posts/000LargeSkull/Note",
+    "_posts/000 LargeSkull/随记/英国食物小记/6.jpg",
+    "_posts/000 LargeSkull/随记/英国食物小记/5.jpg",
+    "_posts/000 LargeSkull/随记/英国食物小记/4.jpg",
+    "_posts/000 LargeSkull/随记/英国食物小记/3.jpg",
+    "_posts/000 LargeSkull/随记/英国食物小记",
+    "_posts/000 LargeSkull/随记/新建文件夹",
+    "_posts/haha.md",
+    "_posts/haha",
+    "images",
+    "新建文件夹",
+    "未命名",
+    "_posts/000 LargeSkull/随记/未命名.md"
   ]
 }
