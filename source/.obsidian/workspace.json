@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34b28c811252fa31",
+        "id": "0d0d9b88b430c939",
         "type": "tabs",
         "children": [
           {
-            "id": "d406dd7fd9fa5387",
+            "id": "a948e6e5bc80e47d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
+                "file": "_posts/001 碎碎念/000 2023能见人版.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "45f5a100765c6a91",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
+                "file": "_posts/001 碎碎念/000 2023能见人版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/000LargeSkull/Note/英国食物小记.md",
+                "file": "_posts/001 碎碎念/000 2023能见人版.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/000LargeSkull/Note/英国食物小记.md"
+                "file": "_posts/001 碎碎念/000 2023能见人版.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,35 +145,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d406dd7fd9fa5387",
+  "active": "a948e6e5bc80e47d",
   "lastOpenFiles": [
+    "_posts/004 随记/BOOK/《做一个清醒的现代人》.md",
+    "_posts/004 随记/BOOK/量子力学+编程通识.md",
+    "_posts/004 随记/STORY/“疯子？学术疯子！”.md",
+    "_posts/004 随记/STORY/瞎掰掰我和语文.md",
+    "_posts/004 随记/STORY/英国食物小记.md",
+    "_posts/004 随记/STORY/流水账之“少年班之路”.md",
+    "_posts/001 碎碎念/000 2023能见人版.md",
+    "_posts/002 我の医路/「医？」.md",
+    "_posts/001 碎碎念/000 2024能见人版.md",
+    "_posts/003 医学小记/医学小记（2024.3-6 ）/医学小记「外总碎碎念」.md",
     "about/index.md",
-    "links/index.md",
-    "_posts/000LargeSkull/Note/“疯子？学术疯子！”.md",
-    "_posts/000LargeSkull/Note/英国食物小记.md",
-    "tags/index.md",
-    "about",
-    "_posts/000LargeSkull/Note/英国食物小记/6.jpg",
-    "_posts/000LargeSkull/Note/英国食物小记/1.jpg",
-    "_posts/000LargeSkull/Note/英国食物小记/2.jpg",
-    "_posts/000LargeSkull/Note/英国食物小记/3.jpg",
-    "_posts/000LargeSkull/Note/英国食物小记/5.jpg",
-    "categories/index.md",
-    "_posts/000 LargeSkull/随记/英国食物小记.md",
-    "_posts/000LargeSkull/Note/英国食物小记/4.jpg",
-    "_posts/000LargeSkull/Note/英国食物小记",
-    "_posts/000LargeSkull/Note",
-    "_posts/000 LargeSkull/随记/英国食物小记/6.jpg",
-    "_posts/000 LargeSkull/随记/英国食物小记/5.jpg",
-    "_posts/000 LargeSkull/随记/英国食物小记/4.jpg",
-    "_posts/000 LargeSkull/随记/英国食物小记/3.jpg",
-    "_posts/000 LargeSkull/随记/英国食物小记",
-    "_posts/000 LargeSkull/随记/新建文件夹",
-    "_posts/haha.md",
-    "_posts/haha",
-    "images",
-    "新建文件夹",
-    "未命名",
-    "_posts/000 LargeSkull/随记/未命名.md"
+    "_posts/005 Dream & 忆/忆.md",
+    "_posts/004 随记/其它/「无痛口语变native」.md",
+    "_posts/004 随记/BOOK/《圆圈正义》.md",
+    "_posts/003 医学小记/医学小记（2024.3-6 ）/医学小记（2024.3-6 短篇）.md",
+    "_posts/003 医学小记/医学小记（2024.3-6 ）/医学小记「伦理学课堂乱写」.md",
+    "_posts/003 医学小记/医学小记（2024.3-6 ）/医学小记「内科老师の援非」.md",
+    "_posts/004 随记/STORY/「夸赞与自卑」.md",
+    "images/2023 の 能见人的碎碎念+摘录.png",
+    "images/1.png",
+    "images/医学小记2024.3-6-11.png",
+    "images/医学小记2024.3-6-10.jpg",
+    "images/医学小记2024.3-6-9.jpg",
+    "images/医学小记2024.3-6-8.jpg",
+    "images/医学小记2024.3-6-7.jpg",
+    "images/医学小记2024.3-6-6.jpg",
+    "images/医学小记2024.3-6-5.png",
+    "images/医学小记2024.3-6-4.png",
+    "_posts/003 医学小记/医学小记（2024.3-6 ）",
+    "_posts/003 医学小记/医学小记（2024.3-6 短篇）/医学小记（2024.3-6 短篇）.md",
+    "_posts/003 医学小记/医学小记（2024.3-6 短篇）.md",
+    "_posts/004 随记/STORY/英国食物小记/英国食物小记.md",
+    "_posts/003 医学小记/医学小记「伦理学课堂乱写」/医学小记「伦理学课堂乱写」.md",
+    "_posts/003 医学小记/医学小记「内科老师の援非」.md",
+    "_posts/003 医学小记/医学小记「外总碎碎念」/医学小记「外总碎碎念」.md",
+    "_posts/003 医学小记/医学小记「外总碎碎念」",
+    "_posts/003 医学小记/医学小记「外总碎碎念」.md",
+    "_posts/003 医学小记/医学小记「伦理学课堂乱写」",
+    "_posts/004 随记/其它/「无痛口语变native」/「无痛口语变native」.md",
+    "_posts/004 随记/其它/「无痛口语变native」",
+    "_posts/004 随记/STORY/英国食物小记",
+    "_posts/004 随记/其它",
+    "_posts/004 随记/新建文件夹",
+    "_posts/004 随记/STORY",
+    "_posts/004 随记/BOOK",
+    "_posts/003 医学小记/医学小记（2024.3-6 短篇）"
   ]
 }
