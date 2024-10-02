@@ -4,6 +4,7 @@ date: 2024-01-20 00:00:00
 categories: 004 随记
 tags:
   - 其它
+  - 口语
 description: 口语课的灵光一闪，对他人的适用性目前仍不清楚
 ---
 「无痛口语变native」

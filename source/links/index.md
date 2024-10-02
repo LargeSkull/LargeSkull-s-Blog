@@ -107,7 +107,18 @@ type: links
                   <div class="info">百代繁华一朝都，谁非过客；千秋明月吹角寒，花是主人。</div>
                </div>
             </div>
+            <div class="link-navigation">
+            <div class="card">
+               <img class="ava" src="https://cinlon-1321499378.cos.ap-beijing.myqcloud.com/imgsliang.jpg" />
+               <div class="card-header">
+                  <div>
+                     <a href="https://www.cinlon.top/">Sunny Platform</a>
+                  </div>
+                  <div class="info">enjoy the world</div>
+               </div>
+            </div>
          </div>
       </div>
    </div>
 </div>
+
